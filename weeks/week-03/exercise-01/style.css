@@ -1,0 +1,25 @@
+* {box-sizing: border-box;}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:#CC4C32;
+    margin: 100px;
+    padding: 10px;
+}
+
+.card {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background-color: #65CC32;
+    border: 10px #32B2CC;
+    h1 {
+        color: #9932CC;
+        font-size: larger;
+        text-align: center;
+        margin: 20px;
+    }
+    p {
+        color: black;
+    }
+}
